@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: uploadfile
   servlet:
     multipart:
       max-request-size: 5000MB
